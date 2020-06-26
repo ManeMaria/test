@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ManeMaria/test.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ManeMaria/test.git/static/js/main.dbf30390.chunk.js",
+    "main.js.map": "/ManeMaria/test.git/static/js/main.dbf30390.chunk.js.map",
+    "runtime-main.js": "/ManeMaria/test.git/static/js/runtime-main.90c46234.js",
+    "runtime-main.js.map": "/ManeMaria/test.git/static/js/runtime-main.90c46234.js.map",
+    "static/js/2.53de6e53.chunk.js": "/ManeMaria/test.git/static/js/2.53de6e53.chunk.js",
+    "static/js/2.53de6e53.chunk.js.map": "/ManeMaria/test.git/static/js/2.53de6e53.chunk.js.map",
+    "index.html": "/ManeMaria/test.git/index.html",
+    "precache-manifest.ea0a56f3f9153ad1d861c9c4aa6e1f5c.js": "/ManeMaria/test.git/precache-manifest.ea0a56f3f9153ad1d861c9c4aa6e1f5c.js",
+    "service-worker.js": "/ManeMaria/test.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ManeMaria/test.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.53de6e53.chunk.js.LICENSE.txt": "/ManeMaria/test.git/static/js/2.53de6e53.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ManeMaria/test.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90c46234.js",
+    "static/js/2.53de6e53.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.dbf30390.chunk.js"
+  ]
+}
